@@ -1,0 +1,20 @@
+﻿@using Microsoft.Extensions.Localization
+@using Study_ASPNET_Core.Language
+@inject IStringLocalizer<Lan> Localizer
+@{
+    ViewData["Title"] = "Home Page";
+    var currentCulture = System.Globalization.CultureInfo.CurrentCulture.Name;
+}
+
+<form asp-action="SetLanguage" method="post">
+    <select name="culture" onchange="this.form.submit()">
+        <option value="ko" selected="@(currentCulture == "ko")">Korean</option>
+        <option value="en" selected="@(currentCulture == "en")">English</option>
+    </select>
+</form>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>@Localizer["1"]</p>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
