@@ -1,0 +1,11 @@
+C:\Study\Study_ASPNET_Core\IOManagerBLL\bin\Debug\netstandard2.0\IOManagerBLL.deps.json
+C:\Study\Study_ASPNET_Core\IOManagerBLL\bin\Debug\netstandard2.0\IOManagerBLL.dll
+C:\Study\Study_ASPNET_Core\IOManagerBLL\bin\Debug\netstandard2.0\IOManagerBLL.pdb
+C:\Study\Study_ASPNET_Core\IOManagerBLL\obj\Debug\netstandard2.0\IOManagerBLL.csproj.AssemblyReference.cache
+C:\Study\Study_ASPNET_Core\IOManagerBLL\obj\Debug\netstandard2.0\IOManagerBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Study_ASPNET_Core\IOManagerBLL\obj\Debug\netstandard2.0\IOManagerBLL.AssemblyInfoInputs.cache
+C:\Study\Study_ASPNET_Core\IOManagerBLL\obj\Debug\netstandard2.0\IOManagerBLL.AssemblyInfo.cs
+C:\Study\Study_ASPNET_Core\IOManagerBLL\obj\Debug\netstandard2.0\IOManagerBLL.csproj.CoreCompileInputs.cache
+C:\Study\Study_ASPNET_Core\IOManagerBLL\obj\Debug\netstandard2.0\IOManagerBLL.sourcelink.json
+C:\Study\Study_ASPNET_Core\IOManagerBLL\obj\Debug\netstandard2.0\IOManagerBLL.dll
+C:\Study\Study_ASPNET_Core\IOManagerBLL\obj\Debug\netstandard2.0\IOManagerBLL.pdb
